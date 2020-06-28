@@ -9,3 +9,5 @@ the is a wide range of different things to archive. it is better to do so than e
 * sword
 * hammer
 * spear
+
+<img src="https://vignette.wikia.nocookie.net/finalfantasy/images/d/d2/BCFFVII-Elfe-Artwork.jpg/revision/latest?cb=20200422202611"/>
